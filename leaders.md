@@ -1,6 +1,6 @@
 ### Leaders
-* [Anant Sharma](mailto:anantsharma@bistbpl.in)
-* [Atul Singh](mailto:atulsingh@bistbpl.in)
-* [Prince Rajpoot](mailto:pr7509645@gmail.com)
-* [Manu Sharma](mailto:manu2004oct@gmail.com)
-* [Dr. Anvesh Singh](mailto:singhanvesh@gmail.com)
+* [Anant Sharma](mailto:anant.sharma@owasp.org)
+* [Atul Singh](mailto:atul.singh@owasp.org)
+* [Prince Rajpoot](mailto:prince.rajpoot@owasp.org)
+* [Manu Sharma](mailto:manu.sharma@owasp.org)
+* [Dr. Anvesh Singh](mailto:anvesh.singh@owasp.org)
